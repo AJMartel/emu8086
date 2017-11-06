@@ -19,7 +19,7 @@
     
  ######   Documentation
             
-    See the tutorial and documentation pages [here](https://surendrajat.github.io/emu8086/documentation/)
+    See the tutorial and documentation pages here https://surendrajat.github.io/emu8086/documentation/
  
  ######   REQUIREMENTS
 
