@@ -1,10 +1,9 @@
     
     
-   ### EMU8086  - THE MICROPROCESSOR EMULATOR
+### EMU8086  - THE 8086 MICROPROCESSOR EMULATOR
     
     
-  ######  Introduction
-    ============
+ ######  Introduction
     
     emu8086 is the emulator of 8086 (Intel and AMD compatible) microprocessor 
     and integrated assembler with tutorials for beginners. 
@@ -17,18 +16,14 @@
     a bootable floppy disk. The software package includes  several external virtual
     devices: robot, stepper motor, led display, and traffic lights intersection. 
     Additional devices can be created. 
-    
-    
+ 
  ######   REQUIREMENTS
-    ============
-    
+
     Administrative rights for Windows XP/Vista/7 users.
     
     10 Mb of hard disk space and 1024x768 or greater screen resolution.
-    
-       
+ 
   ######  COPYRIGHTS
-    ==========
 
     Portions Copyright 1997-2010 Barry Allyn.  All rights reserved.
 
@@ -44,10 +39,8 @@
     
         1. Use of such information includes our copyright notice.
         2. Use of such information includes a hyperlink to emu8086.com website. 
-    
-    
- ######   CONTACT
-    =======        
+
+ ######   CONTACT       
     
     Yuri Margolin
     35 Herzel Street
@@ -59,9 +52,5 @@
     e-mail:    info@emu8086.com    
 
     http://www.emu8086.com
-    
-    
-    
-    
     
     
