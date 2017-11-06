@@ -23,7 +23,7 @@
  
  ######   REQUIREMENTS
 
-    Administrative rights for Windows XP/Vista/7 users.
+    Administrative rights for Windows XP/Vista/7/8/8.1/10 users.
     
     10 Mb of hard disk space and 1024x768 or greater screen resolution.
  
