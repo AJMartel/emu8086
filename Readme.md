@@ -3,7 +3,7 @@
    ### EMU8086  - THE MICROPROCESSOR EMULATOR
     
     
-    Introduction
+  ######  Introduction
     ============
     
     emu8086 is the emulator of 8086 (Intel and AMD compatible) microprocessor 
@@ -19,7 +19,7 @@
     Additional devices can be created. 
     
     
-    REQUIREMENTS
+ ######   REQUIREMENTS
     ============
     
     Administrative rights for Windows XP/Vista/7 users.
@@ -27,7 +27,7 @@
     10 Mb of hard disk space and 1024x768 or greater screen resolution.
     
        
-    COPYRIGHTS
+  ######  COPYRIGHTS
     ==========
 
     Portions Copyright 1997-2010 Barry Allyn.  All rights reserved.
@@ -46,7 +46,7 @@
         2. Use of such information includes a hyperlink to emu8086.com website. 
     
     
-    CONTACT
+ ######   CONTACT
     =======        
     
     Yuri Margolin
