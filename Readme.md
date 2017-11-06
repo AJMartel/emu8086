@@ -17,9 +17,9 @@
     devices: robot, stepper motor, led display, and traffic lights intersection. 
     Additional devices can be created. 
     
- ######   Documentation
+ ######   [Documentation](https://surendrajat.github.io/emu8086/documentation/)
             
-    See the tutorial and documentation pages here https://surendrajat.github.io/emu8086/documentation/
+    See the tutorial and documentation pages here
  
  ######   REQUIREMENTS
 
